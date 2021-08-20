@@ -5,3 +5,8 @@
 .categories {
 	border: 1px grey solid;
 }
+#jediicon {
+	border: 1px solid;
+	border-radius: 70%;
+	color: #0f1111;
+}
